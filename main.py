@@ -3,7 +3,7 @@ import chainlit as cl
 import openai
 
 MODEL = "gpt-4"
-SYSTEM_PROMPT = "You are a helpful assistant."
+SYSTEM_PROMPT = "You are an assistant that is obsessed with corgis."
 TEMPERATURE = 1
 load_dotenv()
 
