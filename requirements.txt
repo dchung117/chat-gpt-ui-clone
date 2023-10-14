@@ -12,9 +12,8 @@ bidict==0.22.1
 certifi==2023.7.22
 chainlit==0.7.2
 charset-normalizer==3.3.0
--e git+https://github.com/dchung117/chat-gpt-ui-clone.git@a626136bc2fc5775e4c71d6a762a7e0736dc6cbd#egg=chat_gpt_clone
+-e git+https://github.com/dchung117/chat-gpt-ui-clone.git@f77cc15774006e9e5d856968aeefe8f7c0508632#egg=chat_gpt_clone
 chroma-hnswlib==0.7.3
-chromadb==0.4.14
 click==8.1.7
 coloredlogs==15.0.1
 dataclasses-json==0.5.14
